@@ -63,7 +63,7 @@ void CMFCApplication1Dlg::DoDataExchange(CDataExchange* pDX)
 }
 
 
-//下面的注释
+//下面的注释 消息映射的讲解
 /*
 现在，我们来看MFC“神秘代码”，会发觉好看多了。
 
